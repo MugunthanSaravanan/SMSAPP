@@ -1,4 +1,4 @@
-spackage com.example.smsapp;
+package com.example.smsapp;
 
 import android.content.pm.PackageManager;
 import android.os.Bundle;
